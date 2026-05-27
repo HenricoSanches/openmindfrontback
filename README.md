@@ -46,7 +46,7 @@ npm install
 Crie um arquivo `.env` na raiz:
 
 ```env
-VITE_SUPABASE_URL=# 🧠 OpenMind
+# 🧠 OpenMind
 
 Plataforma de apoio psicológico universitário desenvolvida com React, TypeScript e Supabase.
 
